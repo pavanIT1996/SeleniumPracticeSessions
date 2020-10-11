@@ -8,7 +8,7 @@ public class CallingBrowser {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Pavan\\SeleniumPractice\\SeleniumPracticeSessions\\Library Files\\Chrome Driver\\chromedriverV85.exe");
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Pavan\\git\\SeleniumPracticeSessions\\SeleniumPracticeSessions\\Library Files\\Chrome Driver\\chromedriverV85.exe");
 		
 		//Object writing
 		WebDriver driver = new ChromeDriver();
